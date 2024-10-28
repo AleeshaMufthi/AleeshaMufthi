@@ -4,9 +4,9 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 My goal is to contribute to open-source projects, enhance my problem-solving skills, and collaborate with developers around the world.
 
 ### Tech Stack
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/-339933?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
